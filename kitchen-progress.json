@@ -1,5 +1,3 @@
 {
-  "completed": [],
-  "lastUpdated": "2025-12-31T00:00:00Z",
-  "note": "Upload this file to GitHub/Dropbox/Google Drive. Update 'completed' array with order IDs (e.g., ['1', '3', '5'])"
+  "completed": []
 }
